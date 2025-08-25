@@ -1,4 +1,4 @@
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sssspoddub_python-project-83&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sssspoddub_python-project-83)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=spoddub_python-project-83&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=spoddub_python-project-83)
 ![Maintenance](https://img.shields.io/maintenance/yes/2025)
 
 [Please go visit my Page analyzer](https://python-project-83-xt64.onrender.com/)
