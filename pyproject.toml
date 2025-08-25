@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.5",
+    "djlint>=1.36.4",
     "dotenv>=0.9.9",
     "flask>=3.1.2",
     "gunicorn>=23.0.0",
