@@ -15,4 +15,4 @@ CREATE TABLE IF NOT EXISTS url_checks (
     title VARCHAR(255),
     description TEXT,
     created_at TIMESTAMP NOT NULL
-);add
+);
