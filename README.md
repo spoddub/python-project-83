@@ -1,4 +1,6 @@
+[![Actions Status](https://github.com/spoddub/python-project-83/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/spoddub/python-project-83/actions)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=spoddub_python-project-83&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=spoddub_python-project-83)
+[![Actions Status](https://github.com/spoddub/python-project-83/actions/workflows/workflow.yml/badge.svg)](https://github.com/spoddub/python-project-83/actions)
 
 [Please go visit my Page analyzer](https://python-project-83-xt64.onrender.com/)
 
