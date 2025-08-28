@@ -2,3 +2,4 @@
 .python-version
 page_analyzer/__pycache__
 sonar-project.properties
+hexlet_code.egg-info
